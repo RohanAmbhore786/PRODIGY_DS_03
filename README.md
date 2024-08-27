@@ -10,7 +10,7 @@ The main goal of this project is to create predictive models that can assist ban
 
 ## Dataset
 
-The <a href="https://github.com/kindo-tk/PRODIGY_DS_03/blob/main/bank-additional-full.csv">`dataset`</a> used in this project is related to direct marketing campaigns (phone calls) of the Portuguese banking institution. It contains various features such as client demographics, previous marketing interactions, and the outcome of the marketing campaign (whether the client subscribed to a term deposit or not).
+The <a href="https://github.com/RohanAmbhore786/PRODIGY_DS_03/blob/main/bank-additional-full.csv">`dataset`</a> used in this project is related to direct marketing campaigns (phone calls) of the Portuguese banking institution. It contains various features such as client demographics, previous marketing interactions, and the outcome of the marketing campaign (whether the client subscribed to a term deposit or not).
 
 
 ## Results
